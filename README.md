@@ -16,19 +16,9 @@ A real-time facial recognition attendance management system built with Flask and
 
 ls -la README.md
 cat > README.md << 'EOF'
-# 📸 Smart Face Attendance System
+
 
 A real-time facial recognition attendance management system built with Flask and FaceNet.
-
-## ✨ Features
-
-- 🔐 **Secure Faculty Login** - Session-based authentication
-- 📹 **Real-Time Face Recognition** - Live webcam-based attendance marking
-- 🎯 **High Accuracy** - FaceNet embeddings
-- ⏰ **Late Detection** - Automatic late marking based on class start time
-- 📊 **Attendance Reports** - View and download as Excel
-- 👥 **Student Management** - Add/remove student faces dynamically
-- 🎨 **Beautiful UI** - Responsive dashboard with Tailwind CSS
 
 ## 🚀 Quick Start
 
